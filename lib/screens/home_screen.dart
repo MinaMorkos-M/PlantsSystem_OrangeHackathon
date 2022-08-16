@@ -1,7 +1,7 @@
 import 'package:convex_bottom_bar/convex_bottom_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:plants_system/screens/notifications_screen.dart';
-import 'package:plants_system/screens/plants_screen.dart';
+import 'package:plants_system/screens/plants_HomeScreen/plants_screen.dart';
 import 'package:plants_system/screens/profile_screen.dart';
 import 'package:plants_system/screens/scanner_screen.dart';
 import 'package:plants_system/screens/unknown_screen.dart';
